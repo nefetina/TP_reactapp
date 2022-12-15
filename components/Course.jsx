@@ -19,7 +19,7 @@ const Course = () => {
               
               <div className={styles.content2}>
                     <div className={styles.card1}>
-                      <Image src = "/image/Rectangle56.png" />
+                      <img src = "/image/Rectangle56.png" />
                       <div className={styles.text}>
                         <h4><b>UI Designing</b></h4>
                         <p>The process designers use to build intertace or computerized devices.</p>
@@ -29,7 +29,7 @@ const Course = () => {
                       </div>
                     </div>
                     <div className={styles.card1}>
-                      <Image src = "/image/deploy.png" />
+                      <img src = "/image/deploy.png" />
                       <div className={styles.text}>
                         <h4><b>Deployment</b></h4>
                         <p>Is an extensible client-server tool for syncing content and configuration to IIS.</p>
@@ -39,7 +39,7 @@ const Course = () => {
                       </div>
                     </div>
                     <div className={styles.card1}>
-                      <Image src = "/image/database.png" />
+                      <img src = "/image/database.png" />
                       <div className={styles.text}>
                         <h4><b>Database Creation</b></h4>
                         <p>It is the designing, creating a database or data model, and analyzing requirements and their intents as raw data.</p>
@@ -49,7 +49,7 @@ const Course = () => {
                       </div>
                     </div>
                     <div className={styles.card1}>
-                      <Image src = "/image/webdev.png" />
+                      <img src = "/image/webdev.png" />
                       <div className={styles.text}>
                         <h4><b>Web Development</b></h4>
                         <p>This refers in general to the tasks associated with developing websites for hosting via intranet or internet.</p>

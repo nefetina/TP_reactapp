@@ -9,15 +9,15 @@ const footer = () => {
                             <div className = {styles.social}>
                                 <p>FOLLOW US</p>
                                 <div className= {styles.follow}>
-                                    <Image src = "/image/fb.png" className={styles.pics}/>
-                                    <Image src = "/image/ig.png"  className={styles.pics}/>
-                                    <Image src = "/image/tweet.png" className={styles.pics}/>
+                                    <img src = "/images/fb.png" className={styles.pics}/>
+                                    <img src = "/images/ig.png"  className={styles.pics}/>
+                                    <img src = "/images/tweet.png" className={styles.pics}/>
                                 </div>
                             </div>
                             <div className = {styles.contact}>
                                 <p>CONTACT US</p>
                                 <div className= {styles.phone}>
-                                    <Image src = "/image/phone.png" className= {styles.icon} /><p>09651234512</p>
+                                    <img src = "/images/phone.png" className= {styles.icon} /><p>09651234512</p>
                                 </div>
                             </div>
                         </div>
