@@ -29,7 +29,7 @@ const Hero = () => {
              
           </div>
          <div className={styles.content2}>
-              <img src="/image/person.png" className={styles.pic} />
+              <Image src="/image/person.png" className={styles.pic} />
          </div>
          
       </div>
